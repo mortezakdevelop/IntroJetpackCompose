@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VisaCardUiCompose</string>
+    <string name="hello">Hello jetpack compose!!</string>
+</resources>
